@@ -1,6 +1,6 @@
-baseurl = "https://www.WinterTechForum.com/"
+baseurl = "https://www.SummerTechnForum.com/"
 languageCode = "en-us"
-title = "Winter Tech Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado March 9-13, 2020"
+title = "Summer Tech Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado March 9-13, 2020"
 theme = "hugo-material-banner"
 metadataformat = "yaml"
 canonifyurls = true
