@@ -3,6 +3,10 @@ title: Schedule
 weight: 40
 ---
 
+# <strong style="color: red;">Not Yet Updated</strong>
+- Outdoor activities will be in the morning, sessions in the afternoon (when it often rains)
+
+
 **Pre-conference**: If you arrive early, post something on Slack. If I or others
 are around and available, we might be able to come out for meals or other
 activities.
