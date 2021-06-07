@@ -16,7 +16,7 @@ Organized by Bruce Eckel<br/>
 "schedule/index.md" >}}) the afternoon of the 8th and the morning of the 14th.
 
 - If you've previously attended any of the Crested Butte events and need a
-break on the fee, <a href="https://wintertechforum.com/contact/">make a
+break on the fee, <a href="https://summertechforum.com/contact/">make a
 request</a>. Don't let the fee be the reason you can't attend.
 
 <div style="text-align:center;font-size:175%;font-weight:bold">

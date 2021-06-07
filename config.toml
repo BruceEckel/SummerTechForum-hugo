@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 	# author = "Bruce Eckel"
 	description = "A Self-Organizing Open Spaces Conference."
 
-	logo = "/images/wtf-web.jpg"
+	logo = "/images/stf-circle-web.jpg"
 	favicon = "images/wtf-favicon-96.ico"
 	banner_image = "/images/SummerTechForumBanner.jpg"
 
@@ -82,7 +82,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Code of Conduct"
-	url    = "https://github.com/WinterTechForum/wtf-code-of-conduct/blob/master/README.md"
+	url    = "https://github.com/summertechforum/wtf-code-of-conduct/blob/master/README.md"
 	weight = 80
 
 [[menu.main]]

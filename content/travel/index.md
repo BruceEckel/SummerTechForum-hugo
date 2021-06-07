@@ -63,12 +63,13 @@ weight: 110
 ## Flying into Gunnison
 -   This is often the fastest, and most expensive, option.
 -   Alpine Express takes you from the Gunnison airport to Crested Butte.
--   Because of weather, the Gunnison flight can be unreliable, especially in Winter.
+-   Because of weather, the Gunnison flight can be unreliable.
 -   [Airline tips](https://sites.google.com/site/javaposseroundup/airline-tips)
 
 
 ## Other alternatives
--   Coaches can be rented for groups, to take you to Crested Butte
--   Montrose airport (about an hour further away than Gunnison) can sometimes be more
-    reliable than Gunnison in the Winter. There are services to bring you from Montrose
-    to Crested Butte, or you can rent a car.
+-   Coaches can be rented for groups, to take you to Crested Butte.
+-   Montrose airport (about an hour further away than Gunnison) can sometimes be
+    more reliable than Gunnison. Southwest Airlines now serves Montrose. There
+    are services to bring you from Montrose to Crested Butte, or you can rent a
+    car.

@@ -10,25 +10,21 @@ of the theme is to stimulate ideas, not to prevent discussion.
 Software Reliability
 --------------------
 
-Open source might be the most valuable thing we've done with programming.
-But in many ways, it's being held back. What can we do to improve the
-open-source landscape?
+We've made dramatic advances in many areas of software development, but reliability
+seems like it's the last to gain focus---probably because the topic is so challenging.
 
--   What new models can we discover to fund open-source development?
--   Starting projects: can we apply some of the lessons learned in the startup
-    world to get projects started and move them forward faster?
--   Should we find ways to build teams, rather than relying on the lone-programmer approach?
--   How to incorporate open source software into your enterprise cost-effectively and still give back.
--   Open standards as a competitive advantage.
--   Web compatibility and 3rd party application interoperability.
--   How everyone can benefit from open sourcing enterprise software.
--   Plus anything else anyone wants to talk about, of course.
--   And our business track.
+- What are the different aspects of reliability?
+- What have we tried that hasn't worked?
+- What needs to change before we start taking it seriously?
+- Are reliability and security connected?
+- How can type systems relate to reliability?
+- What architectures support reliability?
+- What are new ways to think about this problem (Such as Erlang/Elixir and Scala3/ZIO2)?
 
-The Topics from 2019
---------------------
+Recent Topics
+-------------
 
-Here are the session topics (created by attendees):
+Here are session topics from recent conferences, created by attendees:
 
 - Age/D+I in Tech
 - Ansible vs Salt at Massive Scale
@@ -60,10 +56,10 @@ Here are the session topics (created by attendees):
 - What book helped you grow?
 - What is a Code Review?
 - What makes a good interview question?
-- What Makes for Satisfying Soft. Eng. Career Growth?
+- What makes for Satisfying Soft. Eng. Career Growth?
 - Where are your commits deployed?
 - Women's Experiences in Tech
 - Working Remote
 
-There were also a number of afternoon workshops.
+You can also create morning workshops.
 
