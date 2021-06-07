@@ -7,8 +7,8 @@ Although the theme sets the general tone of the conference, it doesn't
 preclude session topics that might be considered "off theme." The goal
 of the theme is to stimulate ideas, not to prevent discussion.
 
-Unleashing Open Source
-----------------------
+Software Reliability
+--------------------
 
 Open source might be the most valuable thing we've done with programming.
 But in many ways, it's being held back. What can we do to improve the
