@@ -10,18 +10,20 @@ weight: 160
   - Law of two ears and one mouth
   - Invert your participation mode
   - It's OK to try any experiment via post-it. Like Julie's request for help on python.
-    Even if only one person shows up you'll have an experience. If no one shows up,
+  - Even if only one person shows up you'll have an experience. If no one shows up,
     you might have scheduled it against something that people really wanted to see,
     it doesn't mean your idea was bad.
 
-- Afternoon sessions
-  - Skiing
-  - Workshops (again, be creative and bold and try experiments that might meet
+- Morning sessions
+  - Hiking (typically groups)
+  - Mountain biking (typically groups)
+  - Workshops (Be creative and bold and try experiments that might meet
     your needs. If you need it, chances are someone else will too).
 
-- Altitude: See the "Health" page. Hyperbaric chamber, urgent care clinic at the ski area.
-  Let someone know soon if you're having trouble, don't wait until it's bad. Take Ibuprofen
-  if you have the slightest headache, to catch it early.
+- Altitude: See the "Health" page. Hyperbaric chamber, The Fountain's IV for
+  rehydration & altitude, urgent care clinic at the ski area. Let someone know
+  soon if you're having trouble, don't wait until it's bad. Take Ibuprofen if
+  you have the slightest headache, to catch it early.
 
 - Alcohol and other things.
 

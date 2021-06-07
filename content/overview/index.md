@@ -5,7 +5,7 @@ weight: 10
 ---
 
 Organized by Bruce Eckel<br/>
-<span style="font-size:150%">March 9-13, 2020</span>
+<span style="font-size:150%">August 16-20, 2021</span>
 <span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
 
 - Attendance limited to 45
@@ -13,7 +13,7 @@ Organized by Bruce Eckel<br/>
 - Price: $750
 
 - When scheduling, please [note that there are events]({{< relref
-"schedule/index.md" >}}) the afternoon of the 8th and the morning of the 14th.
+"schedule/index.md" >}}) the afternoon of the 15th and the morning of the 21st.
 
 - If you've previously attended any of the Crested Butte events and need a
 break on the fee, <a href="https://summertechforum.com/contact/">make a
@@ -28,8 +28,7 @@ request</a>. Don't let the fee be the reason you can't attend.
 **Developer Retreat**: This year there will a multi-day post-conference
 Developer Retreat, held at [Evolve Coworking](https://www.evolvework.co/).
 Registration for the conference includes the developer retreat. There is no
-theme; you work on your projects of interest and we discuss them during breaks
-and meals.
+theme; we just work on projects of interest.
 
 ***
 
