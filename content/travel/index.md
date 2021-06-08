@@ -57,7 +57,7 @@ weight: 110
     get an inexpensive nonstop flight.
 -   Rent a car from Denver. If you're a Costco member, their
     [car rental service](https://www.costcotravel.com/Rental-Cars) is exceptional.
--   Use the mailing list to find others to share your car rental.
+-   Use the Slack channel to find others to share your car rental.
 
 
 ## Flying into Gunnison
