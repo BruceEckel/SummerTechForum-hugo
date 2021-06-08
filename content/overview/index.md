@@ -12,12 +12,12 @@ Organized by Bruce Eckel<br/>
 
 - Price: $750
 
-- When scheduling, please [note that there are events]({{< relref
-"schedule/index.md" >}}) the afternoon of the 15th and the morning of the 21st.
+- When scheduling, remember [there are events]({{< relref "schedule/index.md" >}})
+  the afternoon of the 15th and the morning of the 21st.
 
-- If you've previously attended any of the Crested Butte events and need a
-break on the fee, <a href="https://summertechforum.com/contact/">make a
-request</a>. Don't let the fee be the reason you can't attend.
+- If you've previously attended a Crested Butte event and need a break on the
+  fee, <a href="https://summertechforum.com/contact/">make a request</a>. Don't
+  let the fee be the reason you can't attend.
 
 <div style="text-align:center;font-size:175%;font-weight:bold">
 <a href = "/registration">Registration</a>
@@ -25,7 +25,7 @@ request</a>. Don't let the fee be the reason you can't attend.
 
 ***
 
-**Developer Retreat**: This year there will a multi-day post-conference
+**Developer Retreat**: Includes an optional multi-day post-conference
 Developer Retreat, held at [Evolve Coworking](https://www.evolvework.co/).
 Registration for the conference includes the developer retreat. There is no
 theme; we just work on projects of interest.
