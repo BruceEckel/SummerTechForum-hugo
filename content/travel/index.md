@@ -71,4 +71,4 @@ weight: 110
     car.
 
 ## Other alternatives
--   Coaches can be rented for groups, to take you to Crested Butte.
+-   Coaches can be rented for groups, to take you to Crested Butte from Denver.
