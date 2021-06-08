@@ -28,36 +28,23 @@ the corner, and you'll see a little white cargo trailer in front. I usually
 have colorful lights on, as well.
 
 ***********************************
-## Parish Hall Blackout Times
-
-- Tuesday 4:30pm - 6pm, Entire Building Unavailable
-
-- Wednesday 12:30pm - 3pm, Downstairs unavailable
-
-- Wednesday 6pm - 7:30pm, Downstairs unavailable
-
-- Friday 7:30am - 9am, Downstairs unavailable
-
-- Friday we clean up and vacate by approximately 1:30 pm
-
-***********************************
 
 Monday
 ------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **9am**\
+- **Morning** [Morning Activities]({{< relref "afternoon/index.md" >}}) + Lunch
+
+- **1:30pm**\
 Conference Overview\
 Introduction to Open Spaces\
 Initial talk topics and organization\
 Session 1
 
-- **11:10-12:00** Session 2
+- **5:10pm-6:00pm** Session 2
 
-- **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
-
-- **Evening** Groups go to dinner or informal barbeque at Bruce's
+- **Evening** Groups go to dinner or house meals
 
 - **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall (Public welcome)
 
