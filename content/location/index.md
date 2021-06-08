@@ -16,9 +16,7 @@ every 15 minutes.
 well-maintained reference to hotels and restaurants in downtown Crested Butte
 (where we hold the event -- note that you should try to stay downtown and not on
 the mountain, so you can just walk everywhere). This site only lists hotel-style
-lodging; there is also a [nice
-hostel](http://www.crestedbuttelodging.com/lodging/crested-butte-intl-lodge-hostel/),
-and numerous AirB&B's and VRBO-style spaces available.
+lodging; there are numerous AirB&B's and VRBO-style spaces available.
 
 High-speed Internet is available in the conference location and at
 several locations within easy walking distance of the conference
