@@ -3,6 +3,8 @@ title: Various Ideas and Suggestions
 weight: 170
 ---
 
+- Wall page for go-to-dinner groups. Take new people. Suggest reservations.
+
 - Emphasize speaking style and making room for others; creating a safe space. Put at beginning of
 opening session.
 - Session about new people; those who have come before can only ask questions

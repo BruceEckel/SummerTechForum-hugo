@@ -36,13 +36,13 @@ Monday
 
 - **Morning** [Morning Activities]({{< relref "afternoon/index.md" >}}) + Lunch
 
-- **1:30pm**\
+- **1:30pm** Session 1\
 Conference Overview\
 Introduction to Open Spaces\
 Initial talk topics and organization\
-Session 1
+Session
 
-- **5:10pm-6:00pm** Session 2
+- **5:00pm-6:00pm** Session 2
 
 - **Evening** Groups go to dinner or house meals
 
@@ -57,17 +57,17 @@ Tuesday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **9-9:50am** Session 3
+- **Morning** [Morning Activities]({{< relref "afternoon/index.md" >}}) + Lunch
 
-- **9:50-10:20** Break
+- **1:30pm-2:30pm** Session 3
 
-- **10:20-11:10** Session 4
+- **2:30pm-3:00pm** Break
 
-- **11:10-11:40** Break
+- **3:00pm-4:00pm** Session 4
 
-- **11:40-12:30** Session 5
+- **4:00pm-4:30pm** Break
 
-- **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
+- **4:30pm-5:30pm** Session 5
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
@@ -100,17 +100,17 @@ Thursday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **9-9:50am** Session 6
+- **Morning** [Morning Activities]({{< relref "afternoon/index.md" >}}) + Lunch
 
-- **9:50-10:20** Break
+- **1:30pm-2:30pm** Session 6
 
-- **10:20-11:10** Session 7
+- **2:30pm-3:00pm** Break
 
-- **11:10-11:40** Break
+- **3:00pm-4:00pm** Session 7
 
-- **11:40-12:30** Session 8
+- **4:00pm-4:30pm** Break
 
-- **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
+- **4:30pm-5:30pm** Session 8
 
 - **Evening** Progressive Dinner at Rental Houses
 
@@ -125,19 +125,19 @@ Friday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **9-9:50am** Session 9
+- **Morning** [Morning Activities]({{< relref "afternoon/index.md" >}}) + Lunch
 
-- **9:50-10:20** Break
+- **1:30pm-2:30pm** Session 9
 
-- **10:20-11:10** Session 10
+- **2:30pm-3:00pm** Break
 
-- **11:10-11:40** Break
+- **3:00pm-4:00pm** Session 10
 
-- **11:40-12:30** Closing Session
+- **4:00pm-4:30pm** Break
 
-- **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
+- **4:30pm-5:30pm** Closing Session
 
-- **Evening** Ski/Snowshoe to catered Yurt dinner
+- Evening event TBA
 
 ***********************************
 
