@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 	description = "A Self-Organizing Open Spaces Conference."
 
 	logo = "/images/stf-circle-web.jpg"
-	favicon = "images/wtf-favicon-96.ico"
+	favicon = "images/stf-favicon-32.png"
 	banner_image = "/images/SummerTechForumBanner.jpg"
 
 	permalink = "#"
