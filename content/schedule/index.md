@@ -38,9 +38,12 @@ Monday
 
 - **1:30pm** Session 1\
 Conference Overview\
-Introduction to Open Spaces\
+Introductions\
+How Open Spaces Works\
 Initial talk topics and organization\
 Session
+
+- **4:30pm-5:00pm** Break
 
 - **5:00pm-6:00pm** Session 2
 
