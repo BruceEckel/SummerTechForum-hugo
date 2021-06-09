@@ -72,7 +72,7 @@ Tuesday
 
 - **4:30pm-5:30pm** Session 5
 
-- **Evening** Groups go to dinner or informal barbeque at Bruce's
+- **Evening** Groups go to dinner or house meals
 
 - **8pm** [Lightning Talks](https://www.summertechforum.com/lightningtalks) at the Parish Hall (Public welcome)
 
@@ -90,7 +90,7 @@ at [Evolve Coworking](https://www.evolvework.co/)**
 
 [Hackathon Day Details](https://www.summertechforum.com/hackathon/)
 
-- **Evening** Groups go to dinner or informal barbeque at Bruce's
+- **Evening** Groups go to dinner or house meals
 
 - **8pm** Hackathon Showcase Lightning Talks at the Parish Hall (Public welcome)
 
