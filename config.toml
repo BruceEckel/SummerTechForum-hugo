@@ -72,7 +72,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Hackathon"
-	url    = "hackathon/"
+	url    = "./Hackathon.html"
 	weight = 60
 
 [[menu.main]]
