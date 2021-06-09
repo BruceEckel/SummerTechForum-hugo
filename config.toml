@@ -42,7 +42,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Overview"
-	url    = "overview/"
+	url    = "overview"
 	weight = 10
 
 [[menu.main]]
@@ -57,7 +57,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Open Spaces"
-	url    = "open-spaces/"
+	url    = "open-spaces"
 	weight = 30
 
 [[menu.main]]
@@ -77,7 +77,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Morning Activities"
-	url    = "activities/"
+	url    = "activities"
 	weight = 70
 
 [[menu.main]]
@@ -87,22 +87,22 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Location"
-	url    = "location/"
+	url    = "location"
 	weight = 90
 
 [[menu.main]]
 	name   = "Venue"
-	url    = "venue/"
+	url    = "venue"
 	weight = 100
 
 [[menu.main]]
 	name   = "Travel"
-	url    = "travel/"
+	url    = "travel"
 	weight = 110
 
 [[menu.main]]
 	name   = "Lodging"
-	url    = "lodging/"
+	url    = "lodging"
 	weight = 120
 
 [[menu.main]]
