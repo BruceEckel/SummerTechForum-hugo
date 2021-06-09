@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-weight: 90
+weight: 25
 ---
 
 This conference is about discussion, inclusion and connection, and we want

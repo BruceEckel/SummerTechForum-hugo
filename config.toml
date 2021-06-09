@@ -56,6 +56,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 	weight = 20
 
 [[menu.main]]
+	name   = "Code of Conduct"
+	url    = "codeofconduct"
+	weight = 25
+
+	[[menu.main]]
 	name   = "Open Spaces"
 	url    = "open-spaces"
 	weight = 30
@@ -79,11 +84,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 	name   = "Morning Activities"
 	url    = "activities"
 	weight = 70
-
-[[menu.main]]
-	name   = "Code of Conduct"
-	url    = "codeofconduct"
-	weight = 80
 
 [[menu.main]]
 	name   = "Location"
