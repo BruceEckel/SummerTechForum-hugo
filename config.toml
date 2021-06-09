@@ -112,7 +112,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Registration"
-	url    = "registration/"
+	url    = "./Registration.html"
 	weight = 140
 
 [[menu.main]]
