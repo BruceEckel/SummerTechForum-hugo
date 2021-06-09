@@ -34,7 +34,7 @@ Monday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **Morning** [Morning Activities]({{< relref "activities/index.md" >}}) + Lunch
+- **Morning** [Morning Activities]({{< relref "activities/" >}}) + Lunch
 
 - **1:30pm** Session 1\
 Conference Overview\
@@ -49,7 +49,7 @@ Session
 
 - **Evening** Groups go to dinner or house meals
 
-- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall (Public welcome)
+- **8pm** [Lightning Talks]({{< relref "lightning/" >}}) at the Parish Hall (Public welcome)
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -60,7 +60,7 @@ Tuesday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **Morning** [Morning Activities]({{< relref "activities/index.md" >}}) + Lunch
+- **Morning** [Morning Activities]({{< relref "activities/" >}}) + Lunch
 
 - **1:30pm-2:30pm** Session 3
 
@@ -74,7 +74,7 @@ Tuesday
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
-- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall (Public welcome)
+- **8pm** [Lightning Talks]({{< relref "lightning/" >}}) at the Parish Hall (Public welcome)
 
 - Form groups for Hackathon day
 
@@ -88,7 +88,7 @@ Wednesday: Hackathon day
 **Hackathon projects usually take place in rental houses, at Bruce's house, or
 at [Evolve Coworking](https://www.evolvework.co/)**
 
-[Hackathon Day Details]({{< relref "hackathon/index.md" >}})
+[Hackathon Day Details]({{< relref "hackathon/" >}})
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
@@ -103,7 +103,7 @@ Thursday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **Morning** [Morning Activities]({{< relref "activities/index.md" >}}) + Lunch
+- **Morning** [Morning Activities]({{< relref "activities/" >}}) + Lunch
 
 - **1:30pm-2:30pm** Session 6
 
@@ -128,7 +128,7 @@ Friday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **Morning** [Morning Activities]({{< relref "activities/index.md" >}}) + Lunch
+- **Morning** [Morning Activities]({{< relref "activities/" >}}) + Lunch
 
 - **1:30pm-2:30pm** Session 9
 

@@ -14,7 +14,7 @@ Organized by Bruce Eckel<br/>
 
 - Price: $750
 
-- When scheduling, remember [there are events]({{< relref "schedule/index.md" >}})
+- When scheduling, remember [there are events]({{< relref "schedule/" >}})
   the afternoon of the 15th and the morning of the 21st.
 
 - If you've previously attended a Crested Butte event and need a break on the
