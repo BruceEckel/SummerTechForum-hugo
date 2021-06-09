@@ -121,8 +121,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 	weight = 150
 
 [[menu.main]]
-	name   = "Opening"
-	url    = "opening-session"
+	name   = "Opening Session"
+	url    = "openingsession"
 	weight = 160
 
 [[menu.main]]
