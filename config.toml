@@ -82,7 +82,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Code of Conduct"
-	url    = "./CodeOfConduct.md"
+	url    = "./CodeOfConduct.html"
 	weight = 80
 
 [[menu.main]]
