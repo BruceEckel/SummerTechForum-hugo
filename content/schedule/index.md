@@ -49,7 +49,7 @@ Session
 
 - **Evening** Groups go to dinner or house meals
 
-- **8pm** [Lightning Talks]({{< relref "lightning/" >}}) at the Parish Hall (Public welcome)
+- **8pm** [Lightning Talks]({{< relref "lightningtalks/" >}}) at the Parish Hall (Public welcome)
 
 - **Followed by:** Games and hanging out at rental houses
 
