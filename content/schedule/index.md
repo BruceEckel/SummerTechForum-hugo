@@ -34,7 +34,7 @@ Monday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **Morning** [Morning Activities]({{< relref "activities/" >}}) + Lunch
+- **Morning** [Morning Activities](/activities) + Lunch
 
 - **1:30pm** Session 1\
 Conference Overview\
@@ -60,7 +60,7 @@ Tuesday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **Morning** [Morning Activities]({{< relref "activities/" >}}) + Lunch
+- **Morning** [Morning Activities](/activities) + Lunch
 
 - **1:30pm-2:30pm** Session 3
 
@@ -103,7 +103,7 @@ Thursday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **Morning** [Morning Activities]({{< relref "activities/" >}}) + Lunch
+- **Morning** [Morning Activities](/activities) + Lunch
 
 - **1:30pm-2:30pm** Session 6
 
@@ -128,7 +128,7 @@ Friday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **Morning** [Morning Activities]({{< relref "activities/" >}}) + Lunch
+- **Morning** [Morning Activities](/activities) + Lunch
 
 - **1:30pm-2:30pm** Session 9
 
