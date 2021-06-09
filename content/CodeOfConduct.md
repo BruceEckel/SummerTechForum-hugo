@@ -22,7 +22,7 @@ identity and expression, age, sexual orientation, physical appearance, body
 size, race, ethnicity, religion, technology choices, sexual images in public
 spaces, deliberate intimidation, stalking, following, harassing photography or
 recording, sustained disruption of talks or other events, inappropriate physical
-contact, and unwelcome attention of any kind.***
+contact, or unwelcome attention of any kind.***
 
 Participants violating these rules are expected to immediately cease the
 offending behavior upon notification. Participants who continue to violate these
