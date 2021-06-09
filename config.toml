@@ -62,7 +62,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Schedule"
-	url    = "schedule/"
+	url    = "Schedule.html"
 	weight = 40
 
 [[menu.main]]
