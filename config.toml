@@ -62,7 +62,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Schedule"
-	url    = "Schedule.html"
+	url    = "schedule"
 	weight = 40
 
 [[menu.main]]
@@ -72,7 +72,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Hackathon"
-	url    = "Hackathon.html"
+	url    = "hackathon"
 	weight = 60
 
 [[menu.main]]
@@ -82,7 +82,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Code of Conduct"
-	url    = "CodeOfConduct.html"
+	url    = "codeofconduct"
 	weight = 80
 
 [[menu.main]]
@@ -112,12 +112,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Registration"
-	url    = "Registration.html"
+	url    = "registration"
 	weight = 140
 
 [[menu.main]]
 	name   = "Contact"
-	url    = "Contact.html"
+	url    = "contact"
 	weight = 150
 
 [[menu.main]]
