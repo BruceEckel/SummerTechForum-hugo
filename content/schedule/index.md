@@ -74,7 +74,7 @@ Tuesday
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
-- **8pm** [Lightning Talks]({{< relref "lightning/" >}}) at the Parish Hall (Public welcome)
+- **8pm** [Lightning Talks]({{< relref "lightningtalks/" >}}) at the Parish Hall (Public welcome)
 
 - Form groups for Hackathon day
 
