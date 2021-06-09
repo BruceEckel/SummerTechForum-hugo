@@ -29,9 +29,8 @@ There are numerous hikes available and I often lead some:
 ## **Morning Workshops**
 
 People often spontaneously decide to create their own workshops to investigate a
-particular idea or technology. Rooms at the Parish Hall are usually available,
-or you can hold them at one of the rental houses or in my living room (which has
-a Chromecast-enabled TV).
+particular idea or technology. These can be held at one of the rental houses, in
+my living room (which has a Chromecast-enabled TV), or at [Evolve Coworking](https://www.evolvework.co/).
 
 ## **Rest and Recovery**
 
