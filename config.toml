@@ -37,7 +37,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [social]
 	twitter = ""
-	github  = "https://github.com/BruceEckel/SummerTechForum-hugo"
+	github  = "/BruceEckel/SummerTechForum-hugo"
 	email   = "mindviewinc@gmail.com"
 
 [[menu.main]]
