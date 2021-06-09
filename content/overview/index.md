@@ -18,8 +18,8 @@ Organized by Bruce Eckel<br/>
   the afternoon of the 15th and the morning of the 21st.
 
 - If you've previously attended a Crested Butte event and need a break on the
-  fee, <a href="https://summertechforum.com/contact/">make a request</a>. Don't
-  let the fee be the reason you can't attend.
+  fee, <a href="/contact">make a request</a>. Don't let the fee be the reason
+  you can't attend.
 
 <div style="text-align:center;font-size:175%;font-weight:bold">
 <a href = "/registration">Registration</a>
