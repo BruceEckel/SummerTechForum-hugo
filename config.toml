@@ -52,7 +52,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Conference Theme"
-	url    = "./ConferenceTheme.html"
+	url    = "ConferenceTheme.html"
 	weight = 20
 
 [[menu.main]]
@@ -67,12 +67,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Lightning Talks"
-	url    = "./LightningTalks.html"
+	url    = "LightningTalks.html"
 	weight = 50
 
 [[menu.main]]
 	name   = "Hackathon"
-	url    = "./Hackathon.html"
+	url    = "Hackathon.html"
 	weight = 60
 
 [[menu.main]]
@@ -82,7 +82,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Code of Conduct"
-	url    = "./CodeOfConduct.html"
+	url    = "CodeOfConduct.html"
 	weight = 80
 
 [[menu.main]]
@@ -112,12 +112,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Registration"
-	url    = "./Registration.html"
+	url    = "Registration.html"
 	weight = 140
 
 [[menu.main]]
 	name   = "Contact"
-	url    = "./Contact.html"
+	url    = "Contact.html"
 	weight = 150
 
 [[menu.main]]
