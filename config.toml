@@ -62,7 +62,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 	[[menu.main]]
 	name   = "Open Spaces"
-	url    = "open-spaces"
+	url    = "openspaces"
 	weight = 30
 
 [[menu.main]]
