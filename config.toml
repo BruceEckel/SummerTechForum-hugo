@@ -52,7 +52,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Conference Theme"
-	url    = "conference-theme/"
+	url    = "./ConferenceTheme.html"
 	weight = 20
 
 [[menu.main]]
