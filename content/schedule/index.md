@@ -88,7 +88,7 @@ Wednesday: Hackathon day
 **Hackathon projects usually take place in rental houses, at Bruce's house, or
 at [Evolve Coworking](https://www.evolvework.co/)**
 
-[Hackathon Day Details]({{< relref "./Hackathon.html" >}})
+[Hackathon Day Details]({{< relref "./hackathon" >}})
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
