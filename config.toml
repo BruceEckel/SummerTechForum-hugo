@@ -67,7 +67,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Lightning Talks"
-	url    = "lightning/"
+	url    = "./LightningTalks.html"
 	weight = 50
 
 [[menu.main]]
