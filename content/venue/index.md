@@ -11,11 +11,9 @@ from the church.
 Elk Avenue is our "main street," where you'll find most of the shops and
 restaurants.
 
-![Overview](OverView.png)
+![Overview](/images/OverView.png)
 
 One way to find it is to find Camp4 Coffee, then go east a block on the alley
 next to Camp4:
 
-![Closeup](Closeup.png)
-
-
+![Closeup](/images/Closeup.png)
