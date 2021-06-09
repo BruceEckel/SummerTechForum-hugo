@@ -117,7 +117,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Contact"
-	url    = "./Foo.html"
+	url    = "./Contact.html"
 	weight = 150
 
 [[menu.main]]
