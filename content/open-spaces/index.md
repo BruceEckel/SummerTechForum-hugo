@@ -109,7 +109,7 @@ To Lead an Open Spaces Discussion
 To Attend an Open Spaces Discussion
 -----------------------------------
 
--   Check the board and just show up. It's OK to drop in once the discussion
+-   Check the board and just show up. It's OK to drop in after the discussion
     starts.
 
 -   Use the **Law of two feet** if the session isn't doing it for you.

@@ -10,6 +10,8 @@ Organized by Bruce Eckel<br/>
 
 - Attendance limited to 45
 
+- Please be fully vaccinated before attending.
+
 - Price: $750
 
 - When scheduling, remember [there are events]({{< relref "schedule/index.md" >}})
