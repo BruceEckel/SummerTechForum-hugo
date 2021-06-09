@@ -107,7 +107,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
 	name   = "Health"
-	url    = "health/"
+	url    = "Health.html"
 	weight = 130
 
 [[menu.main]]

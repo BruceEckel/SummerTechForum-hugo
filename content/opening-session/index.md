@@ -20,7 +20,7 @@ weight: 160
   - Workshops (Be creative and bold and try experiments that might meet
     your needs. If you need it, chances are someone else will too).
 
-- Altitude: See the "Health" page. Hyperbaric chamber, The Fountain's IV for
+- Altitude: See [Health](/health). Hyperbaric chamber, The Fountain's IV for
   rehydration & altitude, urgent care clinic at the ski area. Let someone know
   soon if you're having trouble, don't wait until it's bad. Take Ibuprofen if
   you have the slightest headache, to catch it early.
