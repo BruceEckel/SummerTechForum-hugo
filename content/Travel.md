@@ -48,9 +48,9 @@ weight: 110
     "Gunnison/Crested Butte Airport to/from Crested Butte," select either "Adult
     Round Trip" or "Adult One Way." Put in the date, the bus arrival time (6:30
     pm) under "flight arrival time", and put "Econo Lodge Gunnison" in the space
-    labeled "From Location." You can leave the rest of the fields alone. Alpine
+    labeled "From Location" and it will produce the detailed address. Alpine
     Express will email you a confirmation. You can also email them:
-    <info@alpineexpressshuttle.com>.
+    <reservations@letsride.co>.
 
 1.  For your return trip, reverse the order of the above. Note that if you buy a
     round-trip ticket from Alpine Express the total cost is a bit cheaper.
