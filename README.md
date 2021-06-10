@@ -16,7 +16,7 @@ Everything is in markdown so it's easy to add/edit content. If you look at the
 ## Setup
 
 ```bash
-git clone git@github.com:BruceEckel/summertechforum-hugo.git
+git clone https://github.com/BruceEckel/summertechforum-hugo
 # If you want to refresh the theme from its repository:
 cd summertechforum-hugo
 rm -rf themes
