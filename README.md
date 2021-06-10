@@ -18,7 +18,7 @@ Everything is in markdown so it's easy to add/edit content. If you look at the
 ```bash
 git clone git@github.com:BruceEckel/summertechforum-hugo.git
 cd summertechforum-hugo
-git clone git@github.com:pavelbinar/hugo-material-banner.git themes/hugo-material-banner
+git clone git@github.com:BruceEckel/hugo-material-banner themes/hugo-material-banner
 ```
 
 ## Development
