@@ -36,3 +36,5 @@ hugo server
 The build output will be in the `public` folder.
 
 Deploys automatically by Netlify whenever the Github repo is updated.
+
+`local.bat` is a convenience for starting a local server and opening a local web window.
