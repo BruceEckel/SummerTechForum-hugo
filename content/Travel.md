@@ -46,7 +46,7 @@ weight: 110
     page](https://alpine.letsride.co/), click on "Reservations." Put "Econo
     Lodge Gunnison" in the space labeled "From Location" and it will produce the
     detailed address. If the site gives you any problems, just
-    email them: <reservations@letsride.co> or call them: <(970) 728-6000>.
+    email them: <reservations@letsride.co> or call them: <tel:9707286000>.
 
 1.  For your return trip, reverse the order of the above. Note that if you buy a
     round-trip ticket from Alpine Express the total cost is a bit cheaper.
