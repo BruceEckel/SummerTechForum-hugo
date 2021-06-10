@@ -5,9 +5,9 @@ weight: 90
 
 Crested Butte is a small resort town located at about 9000 feet, near the
 continental divide. It is known for its scenic beauty, skiing in the winter and
-hiking and mountain biking in the summer.
+hiking, mountain biking, and other outdoor activities in the summer.
 
--   [Photos](https://photos.app.goo.gl/d3a4TfH1sHSH2vfu8)
+## <a href="https://photos.app.goo.gl/d3a4TfH1sHSH2vfu8" target="_blank">Photos</a>
 
 We hold the event in town, and free buses run up to the ski mountain
 every 15 minutes.
