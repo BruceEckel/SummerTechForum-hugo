@@ -20,7 +20,9 @@ git clone https://github.com/BruceEckel/summertechforum-hugo
 # If you want to refresh the theme from its repository:
 cd summertechforum-hugo
 rm -rf themes
-git clone https://github.com/BruceEckel/hugo-material-banner themes/hugo-material-banner
+# DOWNLOAD the zip file (don't clone it) from https://github.com/BruceEckel/hugo-material-banner
+# Unzip it to create themes/hugo-material-banner
+# (this avoids cloning and submodule problems)
 ```
 
 ## Development
