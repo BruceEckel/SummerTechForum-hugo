@@ -44,13 +44,13 @@ weight: 110
     to make a reservation ahead of time). They'll take you right to where you're
     staying in Crested Butte. The cost is $37.53 one way per adult or $68.38
     roundtrip for most addresses. From the [Alpine Express home
-    page](http://alpineexpressshuttle.com), click on "Reservations," then, below
+    page](https://alpine.letsride.co/), click on "Reservations," then, below
     "Gunnison/Crested Butte Airport to/from Crested Butte," select either "Adult
     Round Trip" or "Adult One Way." Put in the date, the bus arrival time (6:30
-    pm) under "flight arrival time", and put "Powerstop" in the space labeled
-    "Name of Hotel/Condo or Lodging Address." You can leave the rest of the
-    fields alone. Alpine Express will email you a confirmation. If you need to
-    you can also contact them: <info@alpineexpressshuttle.com>.
+    pm) under "flight arrival time", and put "Econo Lodge Gunnison" in the space
+    labeled "From Location." You can leave the rest of the fields alone. Alpine
+    Express will email you a confirmation. You can also email them:
+    <info@alpineexpressshuttle.com>.
 
 1.  For your return trip, reverse the order of the above. Note that if you buy a
     round-trip ticket from Alpine Express the total cost is a bit cheaper.
