@@ -17,7 +17,9 @@ Everything is in markdown so it's easy to add/edit content. If you look at the
 
 ```bash
 git clone git@github.com:BruceEckel/summertechforum-hugo.git
+# If you want to refresh the theme from its repository:
 cd summertechforum-hugo
+rm -rf themes
 git clone git@github.com:BruceEckel/hugo-material-banner themes/hugo-material-banner
 ```
 
