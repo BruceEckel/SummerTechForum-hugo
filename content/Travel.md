@@ -11,7 +11,6 @@ weight: 110
 -   Rent a car from Denver. If you're a Costco member, their
     [car rental service](https://www.costcotravel.com/Rental-Cars) is exceptional.
 
-
 ## The Cheapest Way (On Your Own)
 
 1.  Fly to Denver airport on a discount airline like Southwest. Denver is a
@@ -34,8 +33,8 @@ weight: 110
 
 1.  Take the [Bus from Union Station to Gunnison](https://ridebustang.com/gunnison-denver-schedule/)
     ($37). This is a very comfortable bus with power outlets and WiFi (good
-    enough for email but not for streaming). You should buy your ticket
-    online, when you make your airline reservation.
+    enough for email but not for streaming). It's a good idea to buy your ticket
+    online, to guarantee a spot.
 
 1.  Get off at the [Econo Lodge in Gunnison](https://www.choicehotels.com/colorado/gunnison/econo-lodge-hotels/co308).
     This is also where you'll depart for your return trip.
@@ -52,10 +51,9 @@ weight: 110
 1.  For your return trip, reverse the order of the above. Note that if you buy a
     round-trip ticket from Alpine Express the total cost is a bit cheaper.
 
-1.  When returning, try to arrange it so your light rail train arrives at the airport
-    at least 90 minutes before your flight leaves. If you do so, you can check your
-    baggage at a special desk at the light rail station.
-
+1.  When returning, try to arrange it so your light rail train arrives at the
+    airport at least 90 minutes before your flight leaves. This way, you can
+    check your baggage at a special desk at the light rail station.
 
 ## Flying into Gunnison
 
@@ -67,7 +65,3 @@ weight: 110
     more reliable than Gunnison. Southwest Airlines and United now serve
     Montrose. There are services to bring you from Montrose to Crested Butte, or
     you can rent a car.
-
-## Other alternatives
-
--   Coaches can be rented for groups, to take you to Crested Butte from Denver.

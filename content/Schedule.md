@@ -43,9 +43,9 @@ How Open Spaces Works\
 Initial talk topics and organization\
 Session
 
-- **4:30pm-5:00pm** Break
+- **4:00pm-4:30pm** Break
 
-- **5:00pm-6:00pm** Session 2
+- **4:30pm-5:30pm** Session 2
 
 - **Evening** Groups go to dinner or house meals
 
