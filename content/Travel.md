@@ -3,6 +3,15 @@ title: Travel
 weight: 110
 ---
 
+## The Cheapest Way (With Others)
+
+-   Denver is a hub for Southwest Airlines and Frontier Airlines, so you can usually
+    get an inexpensive nonstop flight.
+-   Use the Slack channel to find others to share your car rental.
+-   Rent a car from Denver. If you're a Costco member, their
+    [car rental service](https://www.costcotravel.com/Rental-Cars) is exceptional.
+
+
 ## The Cheapest Way (On Your Own)
 
 1.  Fly to Denver airport on a discount airline like Southwest. Denver is a
@@ -49,15 +58,6 @@ weight: 110
 1.  When returning, try to arrange it so your light rail train arrives at the airport
     at least 90 minutes before your flight leaves. If you do so, you can check your
     baggage at a special desk at the light rail station.
-
-
-## The Cheapest Way (With Others)
-
--   Denver is a hub for Southwest Airlines and Frontier Airlines, so you can usually
-    get an inexpensive nonstop flight.
--   Use the Slack channel to find others to share your car rental.
--   Rent a car from Denver. If you're a Costco member, their
-    [car rental service](https://www.costcotravel.com/Rental-Cars) is exceptional.
 
 
 ## Flying into Gunnison
