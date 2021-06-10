@@ -3,10 +3,10 @@ title: Morning Activities
 weight: 70
 ---
 
-During conference days (Monday, Tuesday, Thursday and Friday), the mornings
-are unscheduled time. There are numerous options. Note that, although some of
-these look like pure recreation, we have some of our most interesting
-discussions once the structure and constraints are completely removed.
+During conference days (Monday, Tuesday, Thursday and Friday), the mornings are
+unscheduled time. There are numerous options. Although these look like pure
+recreation, we have some of our most interesting discussions once the structure
+and constraints are completely removed.
 
 ## **Hiking**
 
