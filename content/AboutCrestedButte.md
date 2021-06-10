@@ -31,7 +31,7 @@ make sure.
 **Restaurants:**
 [This](http://www.downtowncrestedbutte.com/restaurants-in-crested-butte/)
 is a reasonably accurate list. There are also a few restaurants on the
-mountain, including the popular [Django's](http://djangos.us/).
+mountain.
 
 **Often people stay the day after the conference or for the weekend;
 informal gatherings have been known to happen.**
