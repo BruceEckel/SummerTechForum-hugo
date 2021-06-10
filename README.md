@@ -21,7 +21,7 @@ git clone https://github.com/BruceEckel/summertechforum-hugo
 cd summertechforum-hugo
 rm -rf themes
 # DOWNLOAD the zip file (don't clone it) from https://github.com/BruceEckel/hugo-material-banner
-# Unzip it to create themes/hugo-material-banner
+# Unzip it to create themes/hugo-material-banner off of summertechforum-hugo
 # (this avoids cloning and submodule problems)
 ```
 
