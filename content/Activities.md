@@ -10,11 +10,13 @@ discussions once the structure and constraints are completely removed.
 
 ## **Hiking**
 
-There are numerous hikes available and I often lead some:
+There are numerous hikes available and I often lead some. Here are some basic easy hikes:
 
+- The Woods Walk, starting at the top (West) end of Maroon Avenue (the street
+  just north of Elk Avenue).
 - Around Lake Irwin: relatively flat, beautiful scenery. Good for a first hike when
-  you're not sure about how the altitude will affect you.
-- The far end of the lower loop, starting at gunsight pass bridge.
+  you're not sure how the altitude will affect you.
+- The far end of the lower loop, starting at Gunsight Pass Bridge.
 - The top of Mt. Crested Butte, taking the ski lift up from the bottom.
 - Copper Creek, starting just past Gothic.
 
